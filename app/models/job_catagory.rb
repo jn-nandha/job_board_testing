@@ -1,0 +1,2 @@
+class JobCatagory < ApplicationRecord
+end
