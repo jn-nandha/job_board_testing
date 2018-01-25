@@ -23,4 +23,4 @@ Things you may want to cover:
 
 * ...
 jalhjfjsljlfkjalsdjdlkajsd
-This is Changes by Dhaval
+This is Changes by Dhaval Gandhi
